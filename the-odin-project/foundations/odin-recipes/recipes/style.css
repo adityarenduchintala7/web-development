@@ -1,0 +1,16 @@
+html{
+    font-size: 20px;
+}
+body{
+    background-color: #333;
+    color: whitesmoke;
+}
+.image-container{
+    text-align: left;
+}
+.x{
+    color: rgb(18, 254, 179);
+}
+.try{
+    color: aqua;
+}
